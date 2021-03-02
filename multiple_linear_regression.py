@@ -1,4 +1,4 @@
-"""Exploring unsupervised learning using
+"""Exploring supervised learning using
 multiple linear regression"""
 """useful when many variables are involved
 and somehow linked in a linear manner."""

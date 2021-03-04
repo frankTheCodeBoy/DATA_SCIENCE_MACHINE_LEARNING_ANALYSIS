@@ -79,6 +79,7 @@ for i, j in enumerate(np.unique(y_set)):
 		plt.xlabel('Age')
 		plt.ylabel('Estimated Salary')
 		plt.legend()
+# plot results
 plt.show()
 
 
